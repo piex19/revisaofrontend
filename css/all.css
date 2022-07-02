@@ -1,3 +1,14 @@
+.centralizar{
+    text-align: center;
+}
+
+.text{
+    color: aliceblue; 
+    font-family: monospace; 
+    text-align: center;
+
+}
+
 a{
     text-decoration: none;
     text-transform: uppercase;
@@ -5,10 +16,20 @@ a{
 }
 
 #titulo{
-    color: aliceblue; 
-    font-family: monospace; 
-    text-align: center; 
     font-size: 15px;
+    margin: auto;
 }
 
+#meio{
+    margin: auto;
+}
+
+#texto-index{
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+#rodape{
+    font-size: 9px;
+}
 
