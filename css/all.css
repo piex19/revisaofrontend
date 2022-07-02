@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:aliceblue;
+}
+
+#titulo{
+    color: aliceblue; 
+    font-family: monospace; 
+    text-align: center; 
+    font-size: 15px;
+}
+
+
