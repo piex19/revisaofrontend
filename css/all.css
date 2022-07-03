@@ -4,9 +4,32 @@
 
 .text{
     color: aliceblue; 
-    font-family: monospace; 
+    font-family: 'Press Start 2P', cursive;
     text-align: center;
 
+}
+
+/* BOTÃO NEXT (INDEX) */
+.next{
+    color: aliceblue; 
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.aqui{
+    color: rgb(247, 242, 0); 
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.text-botao{
+    color: rgb(0, 0, 0); 
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
 }
 
 a{
